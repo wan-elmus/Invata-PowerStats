@@ -3,3 +3,8 @@ djangorestframework
 djangorestframework-simplejwt
 channels
 channels-redis
+django-cors-headers
+django-filter
+djangorestframework-jwt
+django-environ
+asgiref
